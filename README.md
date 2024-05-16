@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on any experience that I could learn from
 - 📫 You can reach me at Jean Kimutai on LinkedIn
 
+  #
+  Language and Tools
+
 <!---
 KimutaiJ/KimutaiJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
