@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Kimutai Jean
-- 👀 I’m interested in security as well as software development and blockchain development
-- 🌱 I’m currently in college working towards attaining a degree in Information Systems, majoring in cybersecurity and forensics.
-- 💞️ I’m looking to collaborate on any experience that I could learn from
-- 📫 You can reach me at Jean Kimutai on LinkedIn
-  
 Hi, I'm Jean Kimutai. A young developer still learning and growing along with the techspace in the hub of Kenya, Nairobi. I am interested in the development of softwares that can help change the lives of people for the better. Mobile applications and IOT particularly excite me and I hope we can collaborate together and learn from each other.
-I am also highly interested in cybersecurity and the systems we use to protect ourselves from the myriad of attacks we face. 
+I am also highly interested in cybersecurity and the systems we use to protect ourselves from the myriad of attacks we face. <br>
 I look forward to working with you.
   #
 <h3>Language and Tools</h3>
